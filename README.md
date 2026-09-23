@@ -1,1 +1,1 @@
-# Predicci-n-Gama-de-Veh-culo
+# Modelo predictivo gama de carro
